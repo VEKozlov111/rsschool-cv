@@ -13,7 +13,7 @@
 function multiply(a, b){
 return  a * b
 }
-6. *Higher education:  Energy Engineer(VSTU)
-   *Courses: *JS / FRONT-END 2022 Q3 with certificate
-            *React 2023 Q1 with certificate
+6. * Higher education:  Energy Engineer(VSTU)
+   * Courses: * JS / FRONT-END 2022 Q3 with certificate
+            * React 2023 Q1 with certificate
 7. B1 (I have some speaking practice, but not with native speakers)
